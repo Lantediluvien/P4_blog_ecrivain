@@ -1,3 +1,5 @@
 Test Github
 
 Et maintenant on modifie depuis Github
+
+...Mais aussi depuis la machine !
